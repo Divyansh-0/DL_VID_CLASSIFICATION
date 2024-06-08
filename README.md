@@ -1,4 +1,4 @@
-## Video Understanding with Deep Learning: A Comparative Study
+## A Comparative Study of EfficientNet, MobileNet, ResNet-50, and VGG-16 for Action Recognition
 
 This repository contains the code and resources for a comprehensive study comparing various CNN architectures for video understanding tasks.
 
